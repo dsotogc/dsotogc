@@ -10,32 +10,17 @@
 
 <!-- Animated typing lines -->
 <a href="https://github.com/dsotogc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Just+a+curious+mind+in+tech;Always+a+student%2C+never+finished;Learning+something+new+every+day;Turning+curiosity+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Curious+about+where+technology+is+going;Energized+by+a+good+challenge;Always+thinking+beyond+the+code" alt="Typing SVG" />
 </a>
 
+<br/>
+<br/>
 <br/>
 
 <!-- Contact -->
 <a href="https://www.linkedin.com/in/davidsotogarcia">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-</div>
-
-<br/>
-
-<!-- ============================================================= -->
-<!--  TECH STACK                                                   -->
-<!-- ============================================================= -->
-
-<div align="center">
-
-### 🧰 Tech I work with
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 </div>
 
@@ -92,7 +77,7 @@ management, and algorithms, learned from the ground up.
 
 ### 🍽️ [Gastrobar](https://github.com/dsotogc/gastrobar-token) &nbsp;·&nbsp; <sub>AI sub-agents orchestrating restaurant operations</sub>
 
-My curiosity is currently pointed at **AI**. I'm building a system of specialized AI agents
+My focus right now is on **AI**. I'm building a system of specialized AI agents
 that coordinate end-to-end restaurant operations — reservations, inventory and workflows.
 
 > 🏗️ **Under construction** — work in progress, more coming soon.
