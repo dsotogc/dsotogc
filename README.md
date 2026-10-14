@@ -10,7 +10,7 @@
 
 <!-- Animated typing lines -->
 <a href="https://github.com/dsotogc">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Curious+about+where+technology+is+going;Energized+by+a+good+challenge;Always+thinking+beyond+the+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Always+curious%2C+always+building;Energized+by+a+good+challenge;Beyond+the+code" alt="Typing SVG" />
 </a>
 
 <br/>
