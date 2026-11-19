@@ -75,6 +75,20 @@ management, and algorithms, learned from the ground up.
 
 ## 🚧 Now Building
 
+### 🎛️ [Neuralraum](https://github.com/dsotogc/neuralraum) &nbsp;·&nbsp; <sub>Machine learning for a music-reactive 3D dancefloor</sub>
+
+I'm **building a machine learning model** to recognize buildups, drops and breakdowns in a track.
+As a first step, I compare hand-labeled passages with beat and frequency data. The goal: a Berlin-inspired
+3D club where the crowd reacts differently to the tension of a buildup and the release of a drop.
+
+> 🏗️ **Under construction** — currently in early development.
+
+<a href="https://github.com/dsotogc/neuralraum">
+  <img src="https://img.shields.io/badge/Follow_the_build-042f2e?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Follow the build" />
+</a>
+
+---
+
 ### 🍽️ [Gastrobar](https://github.com/dsotogc/gastrobar-token) &nbsp;·&nbsp; <sub>AI sub-agents orchestrating restaurant operations</sub>
 
 My focus right now is on **AI**. I'm building a system of specialized AI agents
