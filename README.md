@@ -5,9 +5,6 @@
 
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042f2e,100:06b6d4&height=200&section=header&text=David%20Soto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="David Soto" width="100%" />
-
 <!-- Animated typing lines -->
 <a href="https://github.com/dsotogc">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=50&lines=Always+curious%2C+always+building;Energized+by+a+good+challenge;Beyond+the+code" alt="Typing SVG" />
@@ -65,6 +62,7 @@ management, and algorithms, learned from the ground up.
   <a href="https://github.com/dsotogc/42_get_next_line"><img src="https://img.shields.io/badge/get__next__line-00599C?style=flat-square&logo=c&logoColor=white" alt="get_next_line" /></a>
   <a href="https://github.com/dsotogc/42_push_swap"><img src="https://img.shields.io/badge/push__swap-00599C?style=flat-square&logo=c&logoColor=white" alt="push_swap" /></a>
   <a href="https://github.com/dsotogc/42_python_modules"><img src="https://img.shields.io/badge/python__modules-3776AB?style=flat-square&logo=python&logoColor=white" alt="python_modules" /></a>
+  <a href="https://github.com/dsotogc/42_a-maze-ing"><img src="https://img.shields.io/badge/A--MAZE--ING-3776AB?style=flat-square&logo=python&logoColor=white" alt="A-MAZE-ING" /></a>
 </p>
 
 <br/>
