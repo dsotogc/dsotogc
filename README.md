@@ -16,7 +16,7 @@
 
 <!-- Contact -->
 <a href="https://www.linkedin.com/in/davidsotogarcia">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" height="32" />
 </a>
 
 </div>
